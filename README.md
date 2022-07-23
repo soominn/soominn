@@ -21,6 +21,6 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
 # 📊GitHub Stats :
-![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soominn&theme=darcula&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=soominn&theme=darcula&hide_border=true&include_all_commits=true&count_private=false)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soominn&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
