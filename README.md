@@ -1,16 +1,16 @@
 # 👋 안녕하세요! 백엔드 개발자 조수민입니다.
 
-문제를 빠르게 인지하고,  
-효율적이고 안정적인 기술 솔루션을 설계하는  
-**Problem Solver 백엔드 개발자**입니다.  
+문제를 빠르게 인지하고,
+효율적이고 안정적인 기술 솔루션을 설계하는
+**Problem Solver 백엔드 개발자**입니다.
 꾸준한 성능 개선과 안정적인 서비스 운영을 목표로 성장하고 있습니다.
 
 ---
 
 ## 🚀 About Me
 - 💻 **Backend Engineer**
-- 📧 **Email** : chosm0129@naver.com  
-- 🌐 **Blog** : [som-ethi-ng.tistory.com](https://som-ethi-ng.tistory.com)  
+- 📧 **Email** : chosm0129@naver.com
+- 🌐 **Blog** : [som-ethi-ng.tistory.com](https://som-ethi-ng.tistory.com)
 - 🔗 **GitHub** : [github.com/soominn](https://github.com/soominn)
 
 ---
@@ -51,12 +51,11 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soominn&theme=darcula&hide_border=true&include_all_commits=true&count_private=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soominn&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soominn&theme=darcula&hide_border=true&include_all_commits=true&count_private=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soominn&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 ## ✨ 성장과 목표
-- 서비스 확장성과 안정성을 고려한 백엔드 아키텍처 설계 능력 강화  
-- CI/CD 및 클라우드 환경 기반 DevOps 스킬 업그레이드 중  
-- 팀워크와 코드 리뷰를 통한 지속적인 성장 지향  
+- 서비스 확장성과 안정성을 고려한 백엔드 아키텍처 설계 능력 강화
+- CI/CD 및 클라우드 환경 기반 DevOps 스킬 업그레이드 중
+- 팀워크와 코드 리뷰를 통한 지속적인 성장 지향
