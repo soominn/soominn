@@ -1,62 +1,61 @@
-# 👋 안녕하세요! 백엔드 개발자 조수민입니다.
+# 👋 안녕하세요, 기술적 민첩성으로 실질적 솔루션을 만드는 조수민입니다.
 
-문제를 빠르게 인지하고,
-효율적이고 안정적인 기술 솔루션을 설계하는
-**Problem Solver 백엔드 개발자**입니다.
-꾸준한 성능 개선과 안정적인 서비스 운영을 목표로 성장하고 있습니다.
+> **"탄탄한 백엔드 설계 능력 위에 AI 기술을 얹어 비즈니스 가치를 창출합니다."**
 
----
-
-## 🚀 About Me
-- 💻 **Backend Engineer**
-- 📧 **Email** : chosm0129@naver.com
-- 🌐 **Blog** : [som-ethi-ng.tistory.com](https://som-ethi-ng.tistory.com)
-- 🔗 **GitHub** : [github.com/soominn](https://github.com/soominn)
+저는 Java/Spring 기반의 업무 시스템 운영 경험을 바탕으로, **성능 최적화(360배 개선)**와 **AI 기술(RAG, CV, LLM)의 서비스화**에 강점을 가진 소프트웨어 엔지니어입니다. 문제의 본질을 탐구하고, 데이터와 지표로 증명하는 개발을 지향합니다.
 
 ---
 
-## 💻 Tech Stack
-| 분야        | 기술 |
-|-------------|------|
-| Language    | Java, Python |
-| Framework   | Spring Boot, Django |
-| Database    | MySQL, MariaDB, Oracle |
-| DevOps      | AWS Lightsail, Route 53 |
-| Tools       | Git, GitHub, Postman |
-| Infra & ETC | Linux, Nginx, Apache, Let's Encrypt (HTTPS 적용) |
+## 🛠 Tech Stack
+
+### 🌀 Backend & Infrastructure
+- **Languages & Frameworks:** Java (8/11), Spring Boot, Python (FastAPI, Django), Node.js
+- **Database & Persistence:** MariaDB, MySQL, Oracle, MyBatis, JPA
+- **Infra & DevOps:** AWS (EC2, S3, RDS, Lightsail), Nginx, Docker & Docker Compose, Jenkins, CI/CD
+
+### 🤖 AI & Data Science
+- **LLM & RAG:** LangChain, Google Gemini, OpenAI API, Vector DB
+- **Computer Vision:** YOLOv8, OpenCV, MediaPipe, VARCO-VISION OCR
+- **Analysis:** NumPy, Pandas, Scikit-learn, XGBoost
 
 ---
 
-## 📂 주요 프로젝트
-
-### ✅ [무한맨틀 - 단어 유사도 기반 단어 맞추기 게임](https://github.com/soominn/muhanmantle-back)
-- **FastText 임베딩 기반 단어 유사도 계산 API**
-- Django REST API + React 프론트엔드
-- AWS Lightsail 배포, Route 53 도메인 관리, HTTPS 적용
-- 👉 [백엔드 레포](https://github.com/soominn/muhanmantle-back) / [프론트엔드 레포](https://github.com/soominn/muhanmantle-front)
-
-### ✅ [인천환경공단 환경정보 업무지원 시스템]
-- Spring Framework + MyBatis 기반 대용량 환경 데이터 처리 시스템
-- Jenkins를 통한 배포 자동화, 통계 시각화 및 리포트 기능 제공
-
-### ✅ [사내 협업관리 시스템]
-- 업무 관리 및 보고서 작성 시스템
-- 계층형 데이터 트리 관리 및 보고서 자동 생성 기능 구현
+## 🏆 Key Achievements
+- **[성능 최적화]** 대용량 엑셀 업로드 로직 리팩토링으로 **처리 속도 360배 개선** (30분 → 5초)
+- **[조직 변화]** 사내 협업 시스템 단독 설계/구현으로 **전사 도입 및 업무 효율화** (사용률 0% → 100%)
+- **[기술 확장]** AI 모델(YOLO, RAG, STT)을 실제 서비스 아키텍처에 통합하여 **도메인 특화 서비스 구현**
 
 ---
 
-## 🔗 포트폴리오 전체 보기
-👉 [포트폴리오 노션 바로가기](https://www.notion.so/soominn/Backend-Engineer-1bafb498009780d3b19ecf8394312020)
+## 📂 Featured Projects
+
+### 🧠 [아이마음 (AiMind)] - 아동 그림 심리 분석 플랫폼
+**"HTP 검사 인공지능 분석 및 부모 맞춤형 솔루션 제공"** (2026.01 - 2026.02)
+- **Architecture:** FE, BE, AI, OCR 4개 서버 컨테이너화 및 REST API 통신 구조 설계
+- **Key:** YOLOv8 객체 탐지 및 LangChain RAG 활용 심리 해석 자동화 파이프라인 구축
+- **Repositories:** [🎨 Frontend](https://github.com/Oneness-TheOne/Deploy-Aimind-Frontend) | [⚙️ Backend](https://github.com/Oneness-TheOne/Deploy-Aimind-Backend) | [🤖 AI Models](https://github.com/Oneness-TheOne/Deploy-Aimind-Aimodels) | [📄 OCR](https://github.com/Oneness-TheOne/Deploy-Aimind-OCR)
+
+### 🤝 [UNIGEN] - 시니어 친화형 AI 소셜 플랫폼
+**"OpenAI + STT 기반의 세대 연결 SNS"** (2025.12 - 2026.01)
+- **Role:** **Team Leader**, Backend & System Architecture Design
+- **Key:** 시니어 모드 UI, Web Speech API 기반 음성 입력, OpenAI 활용 말투 변환 기능 리딩
+- **Repositories:** [🎨 Frontend](https://github.com/A3BO2/unigen-front) | [⚙️ Backend](https://github.com/A3BO2/unigen-back)
+
+### 🎮 [무한맨틀] - 단어 유사도 기반 게임
+- **Role:** Individual Project (Full-stack)
+- **Key:** FastText 임베딩 기반 유사도 계산 API 설계 및 실서비스 배포 (**일 평균 200명 이상 접속**)
+- **Repositories:** [🎨 Frontend](https://github.com/soominn/muhanmantle-front) | [⚙️ Backend](https://github.com/soominn/muhanmantle-back)
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soominn&theme=darcula&hide_border=true&include_all_commits=true&count_private=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soominn&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## ✍️ Experience & Education
+- **디비비전** | Software Engineer (2022.08 ~ 2024.09) - 공공·사내 업무 시스템 설계 및 운영
+- **KDT** | 랭체인 활용 AI 영상객체탐지 플랫폼 구축 과정 (2025.10 ~ 현재)
+- **Certification** | 정보처리기사 필기 합격 (2026.03)
 
 ---
 
-## ✨ 성장과 목표
-- AI 교육으로 최신 기술 트렌드 및 역량 확장 중
-- 서비스 확장성과 안정성을 고려한 백엔드 아키텍처 설계 능력 강화
-- CI/CD 및 클라우드 환경 기반 DevOps 스킬 업그레이드 중
-- 팀워크와 코드 리뷰를 통한 지속적인 성장 지향
+## 📫 Contact & Links
+- **Email:** chosm0129@naver.com
+- **Blog:** [som-ethi-ng.tistory.com](https://som-ethi-ng.tistory.com/)
+- **Portfolio:** [조수민 노션 포트폴리오](https://soominn.notion.site/312fb4980097819c9fb3d4ca1627533a?pvs=74)
