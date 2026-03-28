@@ -58,4 +58,4 @@
 ## 📫 Contact & Links
 - **Email:** chosm0129@naver.com
 - **Blog:** [som-ethi-ng.tistory.com](https://som-ethi-ng.tistory.com/)
-- **Portfolio:** [조수민 노션 포트폴리오](https://soominn.notion.site/312fb4980097819c9fb3d4ca1627533a?pvs=74)
+- **Portfolio:** [조수민 노션 포트폴리오](https://soominn.notion.site/331fb498009780aab75de46a1b2a3118?source=copy_link)
